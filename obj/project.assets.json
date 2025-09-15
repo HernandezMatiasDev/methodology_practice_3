@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mario\\Desktop\\Developer\\Metodologias de Programacion\\Practica 3\\Practica_3\\Practica_1.csproj",
-      "projectName": "Practica_1",
-      "projectPath": "C:\\Users\\mario\\Desktop\\Developer\\Metodologias de Programacion\\Practica 3\\Practica_3\\Practica_1.csproj",
+      "projectUniqueName": "C:\\Users\\mario\\Desktop\\Developer\\Metodologias de Programacion\\Practica 3\\Practica_3\\Practica_3.csproj",
+      "projectName": "Practica_3",
+      "projectPath": "C:\\Users\\mario\\Desktop\\Developer\\Metodologias de Programacion\\Practica 3\\Practica_3\\Practica_3.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mario\\Desktop\\Developer\\Metodologias de Programacion\\Practica 3\\Practica_3\\obj\\",
       "projectStyle": "PackageReference",
