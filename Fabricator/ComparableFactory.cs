@@ -61,7 +61,7 @@ namespace methodology
                     factory = new KeyboardNameFabricator();
                     break;
                 case teacher:
-                    factory = new RandomTeacherFabricator();
+                    factory = new KeyboardTeacherFabricator();
                     break;
                 default:
                     throw new ArgumentException("El valor introducido no es valido, igrese 1 para Number y 2 para Student");
